@@ -9,9 +9,11 @@
 
 <p align="center">
   <strong>An all-in-one Swiss Army knife for AI enthusiasts, developers, and creators.</strong>
-  <strong>Update : Dataset list and more are now avaible</strong>
 </p>
 
+<p align="center">
+  <strong>Update : Dataset list and more are now avaible</strong>
+</p>
 ---
 
 ## 📖 Description
